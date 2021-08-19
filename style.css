@@ -1,0 +1,16 @@
+#email{
+    width: 402px;
+    height: 32px;
+}
+.total{
+    position: absolute;
+    top: 12px;
+    left: 384px;
+    width: 30px;
+    height: 30px;
+    background-color: #757575;
+    display: none;
+    color: #fff;
+    font-size:22px;
+    text-align: center;
+}
